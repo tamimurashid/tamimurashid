@@ -18,7 +18,7 @@
 
 - 🔹 **Embedded Systems & IoT:** ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-orange?style=flat-square&logo=platformio&logoColor=white) ![Espressif](https://img.shields.io/badge/Espressif-FF0000?style=flat-square&logo=espressif&logoColor=white)  
 
-- 🔹 **Linux & Ethical Hacking Tools:**  
+- 🔹 **Linux & Ethical Hacking Tools: 
    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" /> 
    <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" /> 
    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /> 

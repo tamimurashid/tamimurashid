@@ -42,14 +42,9 @@
 ## 🚀 GitHub Activity  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamimurashid&theme=react-dark)  
 
-## 🕒 Weekly Coding Stats (WakaTime)  
-<!--START_SECTION:waka-->  
-<!--END_SECTION:waka-->  
-
----
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](your-twitter-url) [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tamimu_rashidy?igsh=MWliZTNicTZvaHJjbA==) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+255621351603)    
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](your-twitter-url) [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tamimu_rashidy?igsh=MWliZTNicTZvaHJjbA==) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+255621351603)    
 
 
 
